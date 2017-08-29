@@ -3,7 +3,7 @@
 
 Identity (graphics, logos, fonts, branding)
 
-![Privacy Lab Website](https://github.com/seandiggity/privacylab-identity/raw/master/screenshots/screenshot-privacylab_website.png)
+![Privacy Lab Website](https://github.com/yaleprivacylab/privacylab-identity/raw/master/screenshots/screenshot-privacylab_website.png)
 
 ## Licensing
 
